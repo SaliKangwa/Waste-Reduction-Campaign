@@ -39,7 +39,7 @@ This project involved implementing a digital solution to streamline waste reduct
 
 <p align="center">
 Input Form: <br/>
-<img src="https://github.com/SaliKangwa/Digital-Transformation-Programme/blob/main/commercial intranet 2.png" height="80%" width="80%" alt="Input Form"/>
+<img src="https://github.com/SaliKangwa/Waste-Reduction-Campaign/blob/main/waste%20reduction.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
 
