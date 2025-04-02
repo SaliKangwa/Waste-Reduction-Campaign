@@ -7,19 +7,41 @@ This project involved implementing a digital solution to streamline waste reduct
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages</h2>
 
 - <b>C#</b> 
 - <b>SQL</b>
+- <b>HTML & CSS</b>
+- <b>JavaScript</b>
+- <b>DAX (Data Analysis Expressions)</b>
+- <b>M Language (Power Query Formula Language) </b>
+
+<h2>Utilities / Frameworks / Libraries</h2>
+
+- <b>SharePoint On Prem</b> 
+- <b>Plumsail Forms</b>
+- <b>SharePoint Designer</b>
+- <b>Power BI Desktop</b> 
+- <b>Power Query Editor</b>
+- <b>SharePoint Lists</b>
+
 
 <h2>Environments Used </h2>
 
-- <b></b> 
+- <b>Visual Studio / Visual Studio Code</b> 
+- <b>Plumsail Form Designer</b>
+- <b>SharePoint On Premise Server</b>
+- <b>Power BI Desktop</b> 
+- <b>Power Query Editor</b>
+- <b>SQL Server Database</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/X5ho8nJ" height="80%" width="80%" alt="Input Form"/>
+Input Form: <br/>
+<img src="https://github.com/SaliKangwa/Digital-Transformation-Programme/blob/main/commercial intranet 2.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
+
+
+
